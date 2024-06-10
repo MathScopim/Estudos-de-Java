@@ -1,0 +1,16 @@
+Type          Bytes           Range
+Byte          1               [-128, 127]
+
+Short         2               [-32k, 32k[
+
+Int           4               [-2B, 2B]
+
+Long          8
+             ///
+Float         4
+
+double        8
+             ///
+char          2               A, B, C, ...
+
+boolean       1               True / False
