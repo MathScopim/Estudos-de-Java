@@ -1,0 +1,4 @@
+As Constantes são valores armazenados em memória que não podem ser modificados,
+depois de declarados. Em java, esses valores são representados pela palavra reservada final, seguida do tipo.
+
+Por convenção, Constantes são sempre escritas em CAIXA ALTA.
