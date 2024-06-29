@@ -1,0 +1,41 @@
+Os Critérios de nomeação de métodos
+Esses critérios não sao obrigatórios
+Entretanto é recomendo pois facilita a vida dos programadores,
+ao trabalharem de forma colaborativa.
+São Elas
+
+-> Deve Ser Nomeado Como Verbo
+-> Sergir o Padrão camelCase ( Todas as letras minúsculas a exceção
+da primeira letra da segunda Palavra).
+Exemplos:
+* Tente Focar em deixar o método só com uma proposta.
+
+ abrirConexao(){}
+
+ concluirProcessamento( {}
+
+ indById(int id) {}
+
+ calcularImprimir(){} -> Está errado pois define duas propostas sendo que
+Só pode se  ter Uma
+
+Quais são  a prosposta principal do método?
+1 - Você deve compreender a real finalidade dele.
+Qual o tipo de retorno esperado após executar o método?
+2 - Analise se ele pode retornar algum valor ou Não.
+
+////////////////////////////////////
+Caso o método não retornar nenhum valor ele é representado de (Void)
+////////////////////////////////////
+
+
+
+
+
+Quais parâmetros serão necessários para execução do método?
+1 - Eles teram de ter alguns crítérios(Argumentos) para a execução
+O método possui o risco de apresentar alguma exceção?
+As exceções são Comuns e as vezes é possivel a existência delas.
+Qual a visibilidade do método?
+tera que ter somento um valor tendo somento o nível da própria classe.
+
