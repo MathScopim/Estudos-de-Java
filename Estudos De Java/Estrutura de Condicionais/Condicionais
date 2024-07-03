@@ -1,0 +1,9 @@
+A estrutura Condicional possibilita a escolha de um grupo de ações
+e comportamentos a serem executados quando determinadas condições
+são ou não satisfeitas.
+São Elas:
+
+ If - Else
+ E
+Comprada o valor de  cada caso com o da variável tendo que dar Break no final
+ Switch - Case
