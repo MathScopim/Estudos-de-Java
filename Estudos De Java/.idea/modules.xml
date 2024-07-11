@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Classes2.java/Classes2.java.iml" filepath="$PROJECT_DIR$/Classes2.java/Classes2.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/Constructors/Constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/DIa 2/DIa 2.iml" filepath="$PROJECT_DIR$/DIa 2/DIa 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/DIa 4/DIa 4.iml" filepath="$PROJECT_DIR$/DIa 4/DIa 4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Debbug/Debbug.iml" filepath="$PROJECT_DIR$/Debbug/Debbug.iml" />
@@ -16,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/DioEscopo.java/DioEscopo.java.iml" filepath="$PROJECT_DIR$/DioEscopo.java/DioEscopo.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/DioMethods.java/DioMethods.java.iml" filepath="$PROJECT_DIR$/DioMethods.java/DioMethods.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/DioOperator.java/DioOperator.java.iml" filepath="$PROJECT_DIR$/DioOperator.java/DioOperator.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enums/Enums.iml" filepath="$PROJECT_DIR$/Enums/Enums.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estrutura de Condicionais/Estrutura de Condicionais.iml" filepath="$PROJECT_DIR$/Estrutura de Condicionais/Estrutura de Condicionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estrutura de Repeticao/Estrutura de Repeticao.iml" filepath="$PROJECT_DIR$/Estrutura de Repeticao/Estrutura de Repeticao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturas de excecao/Estruturas de excecao.iml" filepath="$PROJECT_DIR$/Estruturas de excecao/Estruturas de excecao.iml" />
