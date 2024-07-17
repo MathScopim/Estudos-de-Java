@@ -33,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" filepath="$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/TerminalArguments/TerminalArguments.iml" filepath="$PROJECT_DIR$/TerminalArguments/TerminalArguments.iml" />
       <module fileurl="file://$PROJECT_DIR$/TypeVar.java/TypeVar.java.iml" filepath="$PROJECT_DIR$/TypeVar.java/TypeVar.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ordenacaoList/ordenacaoList.iml" filepath="$PROJECT_DIR$/ordenacaoList/ordenacaoList.iml" />
     </modules>
   </component>
 </project>
