@@ -31,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/PesquisaList/PesquisaList.iml" filepath="$PROJECT_DIR$/PesquisaList/PesquisaList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pilares/Pilares.iml" filepath="$PROJECT_DIR$/Pilares/Pilares.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" filepath="$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetInterface/SetInterface.iml" filepath="$PROJECT_DIR$/SetInterface/SetInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/TerminalArguments/TerminalArguments.iml" filepath="$PROJECT_DIR$/TerminalArguments/TerminalArguments.iml" />
       <module fileurl="file://$PROJECT_DIR$/TypeVar.java/TypeVar.java.iml" filepath="$PROJECT_DIR$/TypeVar.java/TypeVar.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ordenacaoList/ordenacaoList.iml" filepath="$PROJECT_DIR$/ordenacaoList/ordenacaoList.iml" />
