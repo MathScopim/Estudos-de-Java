@@ -1,0 +1,9 @@
+. A interface Map é usada para mapear dados na forma de chaves e valores.
+. O Map do Java é um objeto que mapeia chaves para valores
+. Um Map não pode conter chaves duplicadas : cada chave pode mapear para
+no máximo um valor.
+. A plataforma Java possui Três implementações gerais de Map sendo elas :
+HashMap , Treemap e LinkedHashMap.
+. As operações básicas do Map são: Put(Inserir), get(Obter), ContainsKey(
+Verificar se contém  uma chave), containsValue(Verificar se tem um valor),
+size(Obter o tamanho) e IsEmpty(Verificar se está vazio).

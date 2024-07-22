@@ -26,9 +26,13 @@
       <module fileurl="file://$PROJECT_DIR$/IFSResolucao/IFSResolucao.iml" filepath="$PROJECT_DIR$/IFSResolucao/IFSResolucao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Logica de programacao/Logica de programacao.iml" filepath="$PROJECT_DIR$/Logica de programacao/Logica de programacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapInterface/MapInterface.iml" filepath="$PROJECT_DIR$/MapInterface/MapInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operacoes De Map/Operacoes De Map.iml" filepath="$PROJECT_DIR$/Operacoes De Map/Operacoes De Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperacoesLists/OperacoesLists.iml" filepath="$PROJECT_DIR$/OperacoesLists/OperacoesLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ordenacao set/Ordenacao set.iml" filepath="$PROJECT_DIR$/Ordenacao set/Ordenacao set.iml" />
       <module fileurl="file://$PROJECT_DIR$/Package/Package.iml" filepath="$PROJECT_DIR$/Package/Package.iml" />
       <module fileurl="file://$PROJECT_DIR$/PesquisaList/PesquisaList.iml" filepath="$PROJECT_DIR$/PesquisaList/PesquisaList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PesquisaSet/PesquisaSet.iml" filepath="$PROJECT_DIR$/PesquisaSet/PesquisaSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pilares/Pilares.iml" filepath="$PROJECT_DIR$/Pilares/Pilares.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" filepath="$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetInterface/SetInterface.iml" filepath="$PROJECT_DIR$/SetInterface/SetInterface.iml" />
