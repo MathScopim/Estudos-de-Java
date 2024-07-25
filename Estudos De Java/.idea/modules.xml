@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinaryOperator/BinaryOperator.iml" filepath="$PROJECT_DIR$/BinaryOperator/BinaryOperator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Classes2.java/Classes2.java.iml" filepath="$PROJECT_DIR$/Classes2.java/Classes2.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/Constructors/Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Consumer/Consumer.iml" filepath="$PROJECT_DIR$/Consumer/Consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/DIa 2/DIa 2.iml" filepath="$PROJECT_DIR$/DIa 2/DIa 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/DIa 4/DIa 4.iml" filepath="$PROJECT_DIR$/DIa 4/DIa 4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Debbug/Debbug.iml" filepath="$PROJECT_DIR$/Debbug/Debbug.iml" />
@@ -22,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/Estrutura de Repeticao/Estrutura de Repeticao.iml" filepath="$PROJECT_DIR$/Estrutura de Repeticao/Estrutura de Repeticao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturas de excecao/Estruturas de excecao.iml" filepath="$PROJECT_DIR$/Estruturas de excecao/Estruturas de excecao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estudos De Java.iml" filepath="$PROJECT_DIR$/Estudos De Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
       <module fileurl="file://$PROJECT_DIR$/GetSet/GetSet.iml" filepath="$PROJECT_DIR$/GetSet/GetSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/IFSResolucao/IFSResolucao.iml" filepath="$PROJECT_DIR$/IFSResolucao/IFSResolucao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
@@ -30,12 +33,16 @@
       <module fileurl="file://$PROJECT_DIR$/Operacoes De Map/Operacoes De Map.iml" filepath="$PROJECT_DIR$/Operacoes De Map/Operacoes De Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperacoesLists/OperacoesLists.iml" filepath="$PROJECT_DIR$/OperacoesLists/OperacoesLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ordenacao set/Ordenacao set.iml" filepath="$PROJECT_DIR$/Ordenacao set/Ordenacao set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrdenacaoMap/OrdenacaoMap.iml" filepath="$PROJECT_DIR$/OrdenacaoMap/OrdenacaoMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Package/Package.iml" filepath="$PROJECT_DIR$/Package/Package.iml" />
       <module fileurl="file://$PROJECT_DIR$/PesquisaList/PesquisaList.iml" filepath="$PROJECT_DIR$/PesquisaList/PesquisaList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PesquisaMap/PesquisaMap.iml" filepath="$PROJECT_DIR$/PesquisaMap/PesquisaMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/PesquisaSet/PesquisaSet.iml" filepath="$PROJECT_DIR$/PesquisaSet/PesquisaSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pilares/Pilares.iml" filepath="$PROJECT_DIR$/Pilares/Pilares.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" filepath="$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Predicate/Predicate.iml" filepath="$PROJECT_DIR$/Predicate/Predicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetInterface/SetInterface.iml" filepath="$PROJECT_DIR$/SetInterface/SetInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Supplier/Supplier.iml" filepath="$PROJECT_DIR$/Supplier/Supplier.iml" />
       <module fileurl="file://$PROJECT_DIR$/TerminalArguments/TerminalArguments.iml" filepath="$PROJECT_DIR$/TerminalArguments/TerminalArguments.iml" />
       <module fileurl="file://$PROJECT_DIR$/TypeVar.java/TypeVar.java.iml" filepath="$PROJECT_DIR$/TypeVar.java/TypeVar.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ordenacaoList/ordenacaoList.iml" filepath="$PROJECT_DIR$/ordenacaoList/ordenacaoList.iml" />
